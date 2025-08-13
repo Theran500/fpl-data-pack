@@ -1,0 +1,35 @@
+name: Build Post-GW Pack (manual)
+on:
+  workflow_dispatch:
+    inputs:
+      gw:
+        description: "Finished Gameweek number"
+        type: number
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Generate Post-GW
+        run: python main.py post --gw ${{ inputs.gw }}
+      - name: Upload artifact (optional)
+        uses: actions/upload-artifact@v4
+        with:
+          name: post-pack-gw${{ inputs.gw }}
+          path: out/
+      - name: Commit outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add out/
+          git commit -m "Auto: update Post-GW pack (GW ${{ inputs.gw }})" || echo "No changes"
+          git push

@@ -1,0 +1,32 @@
+name: Build Post-GW Pack (auto)
+on:
+  schedule:
+    - cron: "0 2 * * 1"   # 02:00 UTC = 04:00 SAST on Mondays
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  postauto:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Generate Post-GW
+        run: python main.py post-auto
+      - name: Upload artifact (optional)
+        uses: actions/upload-artifact@v4
+        with:
+          name: post-pack-auto
+          path: out/
+      - name: Commit outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add out/
+          git commit -m "Auto: update Post-GW pack (auto)" || echo "No changes"
+          git push

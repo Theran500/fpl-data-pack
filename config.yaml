@@ -1,0 +1,6 @@
+team_id: 2960533
+timezone: "Africa/Johannesburg"
+apply_top20_heuristic: true
+top20_weight_default: 1.10
+out_dir: "out"
+fixtures_horizon: 5
