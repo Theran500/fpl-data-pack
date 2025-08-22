@@ -1,251 +1,251 @@
 player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90_last6,shots_box_last4,big_chances_last4,key_passes_last4,mins_last4,expected_minutes_gw+1,proj_points_gw+1,proj_points_next3,injury_status,notes,legend_weight
-235,Cole Palmer,MID,CHE,10.5,59.8,,,,,,,,,,,,,,1.0
-381,Mohamed Salah,MID,LIV,14.5,53.9,,,,,,,,,,,,,,1.0
-249,João Pedro Junqueira de Jesus,FWD,CHE,7.5,52.6,,,,,,,,,,,,,,1.0
-470,Martin Dúbravka,GKP,BUR,4.0,34.5,,,,,,,,,100.0,,,,,1.0
-382,Florian Wirtz,MID,LIV,8.5,29.2,,,,,,,,,,,,,,1.0
-427,Tijjani Reijnders,MID,MCI,5.6,29.1,,,,,,,,,,,,,,1.0
-430,Erling Haaland,FWD,MCI,14.0,28.9,,,,,,,,,,,,,,1.0
-370,Jeremie Frimpong,DEF,LIV,6.0,28.9,,,,,,,,,,,,,,1.0
-582,Mohammed Kudus,MID,TOT,6.5,27.5,,,,,,,,,,,,,,1.0
-575,Micky van de Ven,DEF,TOT,4.5,27.3,,,,,,,,,,,,,,1.0
-64,Ollie Watkins,FWD,AVL,9.0,25.6,,,,,,,,,,,,,,1.0
+235,Cole Palmer,MID,CHE,10.5,59.3,,,,,,,,,,,,,,1.0
+381,Mohamed Salah,MID,LIV,14.5,53.7,,,,,,,,,,,,,,1.0
+249,João Pedro Junqueira de Jesus,FWD,CHE,7.5,52.1,,,,,,,,,,,,,,1.0
+470,Martin Dúbravka,GKP,BUR,4.0,34.6,,,,,,,,,100.0,,,,,1.0
+427,Tijjani Reijnders,MID,MCI,5.6,30.4,,,,,,,,,,,,,,1.0
+430,Erling Haaland,FWD,MCI,14.0,29.5,,,,,,,,,,,,,,1.0
+382,Florian Wirtz,MID,LIV,8.5,28.5,,,,,,,,,,,,,,1.0
+582,Mohammed Kudus,MID,TOT,6.5,27.6,,,,,,,,,,,,,,1.0
+575,Micky van de Ven,DEF,TOT,4.5,27.1,,,,,,,,,,,,,,1.0
 220,Robert Lynch Sánchez,GKP,CHE,5.0,25.4,,,,,,,,,,,,,,1.0
+64,Ollie Watkins,FWD,AVL,9.0,25.4,,,,,,,,,,,,,,1.0
 666,Viktor Gyökeres,FWD,ARS,9.0,24.8,,,,,,,,,,,,,,1.0
-373,Virgil van Dijk,DEF,LIV,6.0,23.7,,,,,,,,,,,,,,1.0
-610,Aaron Wan-Bissaka,DEF,WHU,4.5,22.5,,,,,,,,,,,,,,1.0
-402,Rayan Aït-Nouri,DEF,MCI,6.0,22.2,,,,,,,,,,,,,,1.0
-568,Pedro Porro Sauceda,DEF,TOT,5.5,22.1,,,,,,,,,,,,,,1.0
-449,Bruno Borges Fernandes,MID,MUN,9.0,21.3,,,,,,,,,,,,,,1.0
-661,Hugo Ekitiké,FWD,LIV,8.6,21.1,,,,,,,,,,,,,,1.0
-224,Marc Cucurella Saseta,DEF,CHE,6.0,20.5,,,,,,,,,,,,,,1.0
-1,David Raya Martín,GKP,ARS,5.5,19.9,,,,,,,,,,,,,,1.0
-252,Marc Guiu Paz,FWD,SUN,4.5,19.7,,,,,,,,,100.0,,,,,1.0
+370,Jeremie Frimpong,DEF,LIV,6.0,24.2,,,,,,,,,,,,,,1.0
+373,Virgil van Dijk,DEF,LIV,6.0,24.0,,,,,,,,,,,,,,1.0
+402,Rayan Aït-Nouri,DEF,MCI,6.0,22.8,,,,,,,,,,,,,,1.0
+568,Pedro Porro Sauceda,DEF,TOT,5.5,22.0,,,,,,,,,,,,,,1.0
+610,Aaron Wan-Bissaka,DEF,WHU,4.5,22.0,,,,,,,,,,,,,,1.0
+661,Hugo Ekitiké,FWD,LIV,8.6,21.5,,,,,,,,,,,,,,1.0
+224,Marc Cucurella Saseta,DEF,CHE,6.0,21.4,,,,,,,,,,,,,,1.0
+449,Bruno Borges Fernandes,MID,MUN,9.0,21.1,,,,,,,,,,,,,,1.0
+1,David Raya Martín,GKP,ARS,5.5,20.5,,,,,,,,,,,,,,1.0
+5,Gabriel dos Santos Magalhães,DEF,ARS,6.0,20.3,,,,,,,,,,,,,,1.0
 191,Maxime Estève,DEF,BUR,4.0,19.6,,,,,,,,,,,,,,1.0
-502,Matz Sels,GKP,NFO,5.0,19.5,,,,,,,,,,,,,,1.0
-5,Gabriel dos Santos Magalhães,DEF,ARS,6.0,19.5,,,,,,,,,,,,,,1.0
-525,Chris Wood,FWD,NFO,7.6,18.4,,,,,,,,,,,,,,1.0
-38,Ezri Konsa Ngoyo,DEF,AVL,4.5,17.7,,,,,,,,,,,,,,1.0
-16,Bukayo Saka,MID,ARS,10.0,16.8,,,,,,,,,,,,,,1.0
-6,William Saliba,DEF,ARS,6.0,16.2,,,,,,,,,,,,,,1.0
+252,Marc Guiu Paz,FWD,SUN,4.5,19.6,,,,,,,,,100.0,,,,,1.0
+502,Matz Sels,GKP,NFO,5.0,19.3,,,,,,,,,,,,,,1.0
+525,Chris Wood,FWD,NFO,7.6,19.1,,,,,,,,,,,,,,1.0
+16,Bukayo Saka,MID,ARS,10.0,17.0,,,,,,,,,,,,,,1.0
+6,William Saliba,DEF,ARS,6.0,17.0,,,,,,,,,,,,,,1.0
+38,Ezri Konsa Ngoyo,DEF,AVL,4.5,16.9,,,,,,,,,,,,,,1.0
 507,Ola Aina,DEF,NFO,5.0,14.5,,,,,,,,,,,,,,1.0
-119,Bryan Mbeumo,MID,MUN,8.0,14.1,,,,,,,,,,,,,,1.0
-624,Jarrod Bowen,FWD,WHU,8.0,13.9,,,,,,,,,,,,,,1.0
-260,Marc Guéhi,DEF,CRY,4.5,13.1,,,,,,,,,,,,,,1.0
-82,Antoine Semenyo,MID,BOU,7.1,13.0,,,,,,,,,,,,,,1.0
-366,Alisson Becker,GKP,LIV,5.5,11.0,,,,,,,,,,,,,,1.0
-287,Jordan Pickford,GKP,EVE,5.5,10.8,,,,,,,,,,,,,,1.0
-266,Eberechi Eze,MID,CRY,7.5,10.8,,,,,,,,,,,,,,1.0
-101,Caoimhín Kelleher,GKP,BRE,4.5,10.5,,,,,,,,,100.0,,,,,1.0
-299,Iliman Ndiaye,MID,EVE,6.5,10.4,,,,,,,,,,,,,,1.0
-508,Neco Williams,DEF,NFO,5.0,10.0,,,,,,,,,,,,,,1.0
+82,Antoine Semenyo,MID,BOU,7.1,14.3,,,,,,,,,,,,,,1.0
+119,Bryan Mbeumo,MID,MUN,8.0,14.2,,,,,,,,,,,,,,1.0
+624,Jarrod Bowen,FWD,WHU,7.9,13.3,,,,,,,,,,,,,,1.0
+260,Marc Guéhi,DEF,CRY,4.5,13.2,,,,,,,,,,,,,,1.0
+366,Alisson Becker,GKP,LIV,5.5,10.9,,,,,,,,,,,,,,1.0
+287,Jordan Pickford,GKP,EVE,5.5,10.7,,,,,,,,,,,,,,1.0
+266,Eberechi Eze,MID,CRY,7.5,10.6,,,,,,,,,,,,,,1.0
+101,Caoimhín Kelleher,GKP,BRE,4.5,10.4,,,,,,,,,100.0,,,,,1.0
+299,Iliman Ndiaye,MID,EVE,6.5,10.1,,,,,,,,,,,,,,1.0
+508,Neco Williams,DEF,NFO,5.0,9.9,,,,,,,,,,,,,,1.0
 47,Morgan Rogers,MID,AVL,7.0,9.7,,,,,,,,,100.0,,,,,1.0
-505,Nikola Milenković,DEF,NFO,5.5,9.7,,,,,,,,,,,,,,1.0
-43,Álex Moreno Lopera,DEF,AVL,4.0,9.4,,,,,,,,,,,,,,1.0
-413,Omar Marmoush,MID,MCI,8.4,9.2,,,,,,,,,,,,,,1.0
-211,Aaron Ramsey,MID,BUR,4.5,9.2,,,,,,,,,,,,,,1.0
+505,Nikola Milenković,DEF,NFO,5.5,9.6,,,,,,,,,,,,,,1.0
+43,Álex Moreno Lopera,DEF,AVL,4.0,9.2,,,,,,,,,,,,,,1.0
+211,Aaron Ramsey,MID,BUR,4.5,9.1,,,,,,,,,,,,,,1.0
+413,Omar Marmoush,MID,MCI,8.4,9.0,,,,,,,,,,,,,,1.0
+450,Matheus Santos Carneiro da Cunha,MID,MUN,8.0,9.0,,,,,,,,,,,,,,1.0
 283,Jean-Philippe Mateta,FWD,CRY,7.5,8.9,,,,,,,,,,,,,,1.0
 681,Benjamin Sesko,FWD,MUN,7.5,8.9,,,,,,,,,,,,,,1.0
-450,Matheus Santos Carneiro da Cunha,MID,MUN,8.0,8.8,,,,,,,,,,,,,,1.0
 256,Daniel Muñoz Mejía,DEF,CRY,5.5,8.6,,,,,,,,,,,,,,1.0
 417,Rayan Cherki,MID,MCI,6.5,8.5,,,,,,,,,,,,,,1.0
-21,Declan Rice,MID,ARS,6.5,8.2,,,,,,,,,,,,,,1.0
-384,Cody Gakpo,MID,LIV,7.5,8.2,,,,,,,,,,,,,,1.0
-311,Norberto Bercique Gomes Betuncal,FWD,EVE,5.5,8.0,,,,,,,,,,,,,,1.0
-541,Reinildo Mandava,DEF,SUN,4.0,8.0,,,,,,,,,,,,,,1.0
-139,Bart Verbruggen,GKP,BHA,4.5,7.5,,,,,,,,,,,,,,1.0
-486,Anthony Elanga,MID,NEW,7.0,7.5,,,,,,,,,,,,,,1.0
+21,Declan Rice,MID,ARS,6.5,8.3,,,,,,,,,,,,,,1.0
+384,Cody Gakpo,MID,LIV,7.5,8.3,,,,,,,,,,,,,,1.0
+541,Reinildo Mandava,DEF,SUN,4.0,8.2,,,,,,,,,,,,,,1.0
+311,Norberto Bercique Gomes Betuncal,FWD,EVE,5.5,7.9,,,,,,,,,,,,,,1.0
+441,Patrick Dorgu,DEF,MUN,4.5,7.6,,,,,,,,,,,,,,1.0
+139,Bart Verbruggen,GKP,BHA,4.5,7.4,,,,,,,,,,,,,,1.0
+486,Anthony Elanga,MID,NEW,7.0,7.3,,,,,,,,,,,,,,1.0
 253,Dean Henderson,GKP,CRY,5.0,7.3,,,,,,,,,,,,,,1.0
-441,Patrick Dorgu,DEF,MUN,4.5,7.2,,,,,,,,,,,,,,1.0
-291,James Tarkowski,DEF,EVE,5.5,6.9,,,,,,,,,,,,,,1.0
-603,El Hadji Malick Diouf,DEF,WHU,4.5,6.9,,,,,,,,,,,,,,1.0
-403,Joško Gvardiol,DEF,MCI,5.9,6.7,,,,,,,,,,,,,,1.0
-506,Murillo Costa dos Santos,DEF,NFO,5.5,6.7,,,,,,,,,,,,,,1.0
+291,James Tarkowski,DEF,EVE,5.5,6.8,,,,,,,,,,,,,,1.0
+603,El Hadji Malick Diouf,DEF,WHU,4.5,6.7,,,,,,,,,,,,,,1.0
+506,Murillo Costa dos Santos,DEF,NFO,5.5,6.6,,,,,,,,,,,,,,1.0
 517,Elliot Anderson,MID,NFO,5.5,6.5,,,,,,,,,,,,,,1.0
-157,Mitoma Kaoru,MID,BHA,6.5,6.5,,,,,,,,,,,,,,1.0
-371,Milos Kerkez,DEF,LIV,6.0,6.1,,,,,,,,,,,,,,1.0
+157,Mitoma Kaoru,MID,BHA,6.5,6.4,,,,,,,,,,,,,,1.0
+403,Joško Gvardiol,DEF,MCI,5.9,6.4,,,,,,,,,,,,,,1.0
+597,Richarlison de Andrade,FWD,TOT,6.6,6.1,,,,,,,,,,,,,,1.0
 145,Maxim De Cuyper,DEF,BHA,4.5,6.1,,,,,,,,,,,,,,1.0
-225,Reece James,DEF,CHE,5.5,5.8,,,,,,,,,,,,,,1.0
-597,Richarlison de Andrade,FWD,TOT,6.5,5.7,,,,,,,,,,,,,,1.0
+371,Milos Kerkez,DEF,LIV,6.0,6.1,,,,,,,,,,,,,,1.0
+225,Reece James,DEF,CHE,5.5,5.9,,,,,,,,,,,,,,1.0
 241,Moisés Caicedo Corozo,MID,CHE,5.5,5.5,,,,,,,,,,,,,,1.0
-499,Alexander Isak,FWD,NEW,10.4,5.3,,,,,,,,,,,,,,1.0
-515,Morgan Gibbs-White,MID,NFO,7.5,5.2,,,,,,,,,,,,,,1.0
-267,Ismaïla Sarr,MID,CRY,6.5,4.8,,,,,,,,,,,,,,1.0
-654,Jørgen Strand Larsen,FWD,WOL,6.5,4.6,,,,,,,,,,,,,,1.0
+531,Daniel Ballard,DEF,SUN,4.6,5.4,,,,,,,,,,,,,,1.0
+499,Alexander Isak,FWD,NEW,10.4,5.2,,,,,,,,,,,,,,1.0
+515,Morgan Gibbs-White,MID,NFO,7.5,5.1,,,,,,,,,,,,,,1.0
+267,Ismaïla Sarr,MID,CRY,6.5,4.7,,,,,,,,,,,,,,1.0
 167,Carlos Baleba,MID,BHA,5.0,4.6,,,,,,,,,,,,,,1.0
-531,Daniel Ballard,DEF,SUN,4.6,4.6,,,,,,,,,,,,,,1.0
-242,Kiernan Dewsbury-Hall,MID,EVE,5.0,4.5,,,,,,,,,,,,,,1.0
+654,Jørgen Strand Larsen,FWD,WOL,6.5,4.6,,,,,,,,,,,,,,1.0
+36,Matty Cash,DEF,AVL,4.5,4.5,,,,,,,,,,,,,,1.0
 565,Guglielmo Vicario,GKP,TOT,5.0,4.4,,,,,,,,,,,,,,1.0
-600,Alphonse Areola,GKP,WHU,4.5,4.2,,,,,,,,,,,,,,1.0
+242,Kiernan Dewsbury-Hall,MID,EVE,5.0,4.4,,,,,,,,,,,,,,1.0
+476,Dan Burn,DEF,NEW,5.0,4.1,,,,,,,,,,,,,,1.0
+469,Nick Pope,GKP,NEW,5.0,4.1,,,,,,,,,,,,,,1.0
 477,Tino Livramento,DEF,NEW,5.0,4.1,,,,,,,,,,,,,,1.0
-36,Matty Cash,DEF,AVL,4.5,4.1,,,,,,,,,,,,,,1.0
-10,Myles Lewis-Skelly,DEF,ARS,5.5,4.0,,,,,,,,,,,,,,1.0
-469,Nick Pope,GKP,NEW,5.0,4.0,,,,,,,,,,,,,,1.0
-476,Dan Burn,DEF,NEW,5.0,4.0,,,,,,,,,,,,,,1.0
-178,Danny Welbeck,FWD,BHA,6.5,3.9,,,,,,,,,,,,,,1.0
-596,Dominic Solanke-Mitchell,FWD,TOT,7.4,3.9,,,,,,,,,100.0,,,,,1.0
+600,Alphonse Areola,GKP,WHU,4.5,4.1,,,,,,,,,,,,,,1.0
+10,Myles Lewis-Skelly,DEF,ARS,5.5,3.9,,,,,,,,,,,,,,1.0
+596,Dominic Solanke-Mitchell,FWD,TOT,7.4,3.8,,,,,,,,,100.0,,,,,1.0
+178,Danny Welbeck,FWD,BHA,6.5,3.8,,,,,,,,,,,,,,1.0
 17,Martin Ødegaard,MID,ARS,8.0,3.8,,,,,,,,,,,,,,1.0
+7,Riccardo Calafiori,DEF,ARS,5.5,3.7,,,,,,,,,,,,,,1.0
 569,Cristian Romero,DEF,TOT,5.0,3.7,,,,,,,,,,,,,,1.0
-236,Pedro Lomba Neto,MID,CHE,7.0,3.7,,,,,,,,,,,,,,1.0
+408,Rúben dos Santos Gato Alves Dias,DEF,MCI,5.5,3.7,,,,,,,,,,,,,,1.0
 250,Liam Delap,FWD,CHE,6.5,3.7,,,,,,,,,,,,,,1.0
-408,Rúben dos Santos Gato Alves Dias,DEF,MCI,5.5,3.6,,,,,,,,,,,,,,1.0
-67,Đorđe Petrović,GKP,BOU,4.5,3.5,,,,,,,,,,,,,,1.0
-419,Jack Grealish,MID,EVE,6.5,3.4,,,,,,,,,,,,,,1.0
+67,Đorđe Petrović,GKP,BOU,4.5,3.6,,,,,,,,,,,,,,1.0
+236,Pedro Lomba Neto,MID,CHE,7.0,3.6,,,,,,,,,,,,,,1.0
 237,Enzo Fernández,MID,CHE,6.5,3.4,,,,,,,,,,,,,,1.0
-625,Niclas Füllkrug,FWD,WHU,6.0,3.3,,,,,,,,,,,,,,1.0
-347,Gabriel Gudmundsson,DEF,LEE,4.0,3.2,,,,,,,,,,,,,,1.0
-341,Karl Darlow,GKP,LEE,4.0,3.1,,,,,,,,,,,,,,1.0
-7,Riccardo Calafiori,DEF,ARS,5.5,3.0,,,,,,,,,,,,,,1.0
+347,Gabriel Gudmundsson,DEF,LEE,4.0,3.4,,,,,,,,,,,,,,1.0
+419,Jack Grealish,MID,EVE,6.5,3.3,,,,,,,,,,,,,,1.0
+625,Niclas Füllkrug,FWD,WHU,6.0,3.2,,,,,,,,,,,,,,1.0
+410,Rico Lewis,DEF,MCI,5.0,3.2,,,,,,,,,,,,,,1.0
 580,Brennan Johnson,MID,TOT,7.0,3.0,,,,,,,,,,,,,,1.0
+341,Karl Darlow,GKP,LEE,4.0,3.0,,,,,,,,,,,,,,1.0
+474,Fabian Schär,DEF,NEW,5.5,2.9,,,,,,,,,,,,,,1.0
 668,Granit Xhaka,MID,SUN,5.0,2.9,,,,,,,,,,,,,,1.0
 374,Ibrahima Konaté,DEF,LIV,5.5,2.9,,,,,,,,,,,,,,1.0
 317,Joachim Andersen,DEF,FUL,4.5,2.9,,,,,,,,,,,,,,1.0
 593,Pape Matar Sarr,MID,TOT,5.0,2.8,,,,,,,,,,,,,,1.0
-410,Rico Lewis,DEF,MCI,5.0,2.8,,,,,,,,,,,,,,1.0
-474,Fabian Schär,DEF,NEW,5.5,2.8,,,,,,,,,,,,,,1.0
-399,Ederson Santana de Moraes,GKP,MCI,5.5,2.7,,,,,,,,,,,,,,1.0
 452,Amad Diallo,MID,MUN,6.5,2.7,,,,,,,,,,,,,,1.0
-658,Nathan Fraser,FWD,WOL,4.5,2.5,,,,,,,,,,,,,,1.0
+182,James Trafford,GKP,MCI,5.0,2.6,,,,,,,,,,,,,,1.0
+399,Ederson Santana de Moraes,GKP,MCI,5.4,2.6,,,,,,,,,,,,,,1.0
 497,Lewis Miley,MID,NEW,4.5,2.5,,,,,,,,,,,,,,1.0
-182,James Trafford,GKP,MCI,5.0,2.5,,,,,,,,,,,,,,1.0
-218,Ashley Barnes,FWD,BUR,4.5,2.4,,,,,,,,,,,,,,1.0
+658,Nathan Fraser,FWD,WOL,4.5,2.5,,,,,,,,,,,,,,1.0
 338,Rodrigo Muniz Carvalho,FWD,FUL,5.5,2.4,,,,,,,,,,,,,,1.0
-198,Axel Tuanzebe,DEF,BUR,4.0,2.3,,,,,,,,,,,,,,1.0
-348,Joe Rodon,DEF,LEE,4.0,2.3,,,,,,,,,,,,,,1.0
-26,Martín Zubimendi Ibáñez,MID,ARS,5.5,2.3,,,,,,,,,,,,,,1.0
+97,Francisco Evanilson de Lima Barbosa,FWD,BOU,7.0,2.4,,,,,,,,,,,,,,1.0
+218,Ashley Barnes,FWD,BUR,4.5,2.4,,,,,,,,,,,,,,1.0
 638,Ki-Jana Hoever,DEF,WOL,4.0,2.3,,,,,,,,,,,,,,1.0
-37,Lucas Digne,DEF,AVL,4.5,2.2,,,,,,,,,,,,,,1.0
-440,Diogo Dalot Teixeira,DEF,MUN,4.5,2.2,,,,,,,,,,,,,,1.0
-436,Matthijs de Ligt,DEF,MUN,5.0,2.2,,,,,,,,,,,,,,1.0
-48,Youri Tielemans,MID,AVL,6.0,2.2,,,,,,,,,,,,,,1.0
-97,Francisco Evanilson de Lima Barbosa,FWD,BOU,7.0,2.2,,,,,,,,,,,,,,1.0
-467,Chido Obi,FWD,MUN,4.5,2.2,,,,,,,,,,,,,,1.0
+348,Joe Rodon,DEF,LEE,4.0,2.3,,,,,,,,,,,,,,1.0
+436,Matthijs de Ligt,DEF,MUN,5.0,2.3,,,,,,,,,,,,,,1.0
+198,Axel Tuanzebe,DEF,BUR,4.0,2.3,,,,,,,,,,,,,,1.0
+37,Lucas Digne,DEF,AVL,4.5,2.3,,,,,,,,,,,,,,1.0
+26,Martín Zubimendi Ibáñez,MID,ARS,5.5,2.3,,,,,,,,,,,,,,1.0
 478,Kieran Trippier,DEF,NEW,5.0,2.2,,,,,,,,,,,,,,1.0
+48,Youri Tielemans,MID,AVL,6.0,2.2,,,,,,,,,,,,,,1.0
+440,Diogo Dalot Teixeira,DEF,MUN,4.5,2.2,,,,,,,,,,,,,,1.0
+233,Josh Acheampong,DEF,CHE,4.0,2.2,,,,,,,,,,,,,,1.0
 8,Jurriën Timber,DEF,ARS,5.5,2.1,,,,,,,,,,,,,,1.0
+467,Chido Obi,FWD,MUN,4.5,2.1,,,,,,,,,,,,,,1.0
 337,Raúl Jiménez Rodríguez,FWD,FUL,6.5,2.0,,,,,,,,,,,,,,1.0
 567,Antonín Kinský,GKP,TOT,4.0,2.0,,,,,,,,,,,,,,1.0
 628,José Malheiro de Sá,GKP,WOL,4.5,2.0,,,,,,,,,,,,,,1.0
-387,Dominik Szoboszlai,MID,LIV,6.5,1.9,,,,,,,,,,,,,,1.0
-485,Anthony Gordon,MID,NEW,7.5,1.9,,,,,,,,,100.0,,,,,1.0
-489,Jacob Murphy,MID,NEW,6.4,1.9,,,,,,,,,,,,,,1.0
+485,Anthony Gordon,MID,NEW,7.5,2.0,,,,,,,,,100.0,,,,,1.0
 675,Angus Gunn,GKP,NFO,4.0,1.9,,,,,,,,,,,,,,1.0
+543,Simon Adingra,MID,SUN,5.5,1.9,,,,,,,,,,,,,,1.0
+489,Jacob Murphy,MID,NEW,6.4,1.9,,,,,,,,,,,,,,1.0
+187,Kyle Walker,DEF,BUR,4.5,1.9,,,,,,,,,,,,,,1.0
+59,Amadou Onana,MID,AVL,5.0,1.9,,,,,,,,,,,,,,1.0
+363,Patrick Bamford,FWD,LEE,5.0,1.9,,,,,,,,,,,,,,1.0
 362,Joël Piroe,FWD,LEE,5.5,1.9,,,,,,,,,,,,,,1.0
 386,Alexis Mac Allister,MID,LIV,6.5,1.9,,,,,,,,,,,,,,1.0
-187,Kyle Walker,DEF,BUR,4.5,1.9,,,,,,,,,,,,,,1.0
-363,Patrick Bamford,FWD,LEE,5.0,1.9,,,,,,,,,,,,,,1.0
-135,Yoane Wissa,FWD,BRE,7.5,1.9,,,,,,,,,,,,,,1.0
-233,Josh Acheampong,DEF,CHE,4.0,1.8,,,,,,,,,,,,,,1.0
-444,Leny Yoro,DEF,MUN,4.5,1.8,,,,,,,,,,,,,,1.0
-59,Amadou Onana,MID,AVL,5.0,1.8,,,,,,,,,,,,,,1.0
-543,Simon Adingra,MID,SUN,5.5,1.8,,,,,,,,,,,,,,1.0
-276,Justin Devenny,MID,CRY,4.5,1.8,,,,,,,,,,,,,,1.0
+444,Leny Yoro,DEF,MUN,4.5,1.9,,,,,,,,,,,,,,1.0
+387,Dominik Szoboszlai,MID,LIV,6.5,1.9,,,,,,,,,,,,,,1.0
+135,Yoane Wissa,FWD,BRE,7.5,1.8,,,,,,,,,,,,,,1.0
+561,Eliezer Mayenda Dossou,FWD,SUN,5.5,1.8,,,,,,,,,,,,,,1.0
 491,Sandro Tonali,MID,NEW,5.5,1.8,,,,,,,,,,,,,,1.0
-473,Lewis Hall,DEF,NEW,5.5,1.8,,,,,,,,,,,,,,1.0
-561,Eliezer Mayenda Dossou,FWD,SUN,5.5,1.6,,,,,,,,,,,,,,1.0
-53,Donyell Malen,MID,AVL,5.4,1.6,,,,,,,,,,,,,,1.0
-106,Nathan Collins,DEF,BRE,5.0,1.6,,,,,,,,,,,,,,1.0
+258,Tyrick Mitchell,DEF,CRY,5.0,1.7,,,,,,,,,,,,,,1.0
+473,Lewis Hall,DEF,NEW,5.5,1.7,,,,,,,,,,,,,,1.0
+276,Justin Devenny,MID,CRY,4.5,1.7,,,,,,,,,,,,,,1.0
+228,Malo Gusto,DEF,CHE,5.0,1.6,,,,,,,,,,,,,,1.0
 488,Bruno Guimarães Rodriguez Moura,MID,NEW,6.5,1.6,,,,,,,,,,,,,,1.0
 314,Bernd Leno,GKP,FUL,5.0,1.6,,,,,,,,,,,,,,1.0
-258,Tyrick Mitchell,DEF,CRY,5.0,1.6,,,,,,,,,,,,,,1.0
-228,Malo Gusto,DEF,CHE,5.0,1.6,,,,,,,,,,,,,,1.0
-447,Ayden Heaven,DEF,MUN,4.0,1.5,,,,,,,,,,,,,,1.0
-261,Chris Richards,DEF,CRY,4.5,1.5,,,,,,,,,,,,,,1.0
+164,Matt O'Riley,MID,BHA,5.5,1.6,,,,,,,,,,,,,,1.0
+106,Nathan Collins,DEF,BRE,5.0,1.6,,,,,,,,,,,,,,1.0
 641,Alfie Pond,DEF,WOL,4.0,1.5,,,,,,,,,,,,,,1.0
-238,Estêvão Almeida de Oliveira Gonçalves,MID,CHE,6.5,1.5,,,,,,,,,,,,,,1.0
+261,Chris Richards,DEF,CRY,4.5,1.5,,,,,,,,,,,,,,1.0
 652,Enso González Medina,MID,WOL,4.5,1.5,,,,,,,,,,,,,,1.0
+53,Donyell Malen,MID,AVL,5.4,1.5,,,,,,,,,,,,,,1.0
 630,Tom King,GKP,EVE,4.0,1.5,,,,,,,,,,,,,,1.0
-19,Gabriel Martinelli Silva,MID,ARS,7.0,1.4,,,,,,,,,,,,,,1.0
-164,Matt O'Riley,MID,BHA,5.5,1.4,,,,,,,,,,,,,,1.0
+238,Estêvão Almeida de Oliveira Gonçalves,MID,CHE,6.5,1.5,,,,,,,,,,,,,,1.0
+447,Ayden Heaven,DEF,MUN,4.0,1.5,,,,,,,,,,,,,,1.0
 324,Alex Iwobi,MID,FUL,6.5,1.4,,,,,,,,,,,,,,1.0
 158,Georginio Rutter,MID,BHA,6.0,1.4,,,,,,,,,,,,,,1.0
-146,Lewis Dunk,DEF,BHA,4.5,1.3,,,,,,,,,,,,,,1.0
-683,Omar Alderete,DEF,SUN,4.0,1.3,,,,,,,,,,,,,,1.0
-257,Maxence Lacroix,DEF,CRY,5.0,1.3,,,,,,,,,,,,,,1.0
+19,Gabriel Martinelli Silva,MID,ARS,7.0,1.4,,,,,,,,,,,,,,1.0
+40,Tyrone Mings,DEF,AVL,4.5,1.3,,,,,,,,,,,,,,1.0
 372,Andrew Robertson,DEF,LIV,6.0,1.3,,,,,,,,,,,,,,1.0
 573,Djed Spence,DEF,TOT,4.5,1.3,,,,,,,,,,,,,,1.0
-414,Phil Foden,MID,MCI,8.0,1.3,,,,,,,,,100.0,,,,,1.0
-40,Tyrone Mings,DEF,AVL,4.5,1.3,,,,,,,,,,,,,,1.0
+683,Omar Alderete,DEF,SUN,4.0,1.3,,,,,,,,,,,,,,1.0
+257,Maxence Lacroix,DEF,CRY,5.0,1.3,,,,,,,,,,,,,,1.0
+146,Lewis Dunk,DEF,BHA,4.5,1.3,,,,,,,,,,,,,,1.0
 78,Julián Araujo Zúñiga,DEF,BOU,4.0,1.3,,,,,,,,,,,,,,1.0
+100,Eli Junior Kroupi,FWD,BOU,4.5,1.3,,,,,,,,,,,,,,1.0
+414,Phil Foden,MID,MCI,8.0,1.3,,,,,,,,,100.0,,,,,1.0
 226,Trevoh Chalobah,DEF,CHE,5.0,1.3,,,,,,,,,,,,,,1.0
-30,Kai Havertz,FWD,ARS,7.5,1.2,,,,,,,,,25.0,,,,,1.0
-100,Eli Junior Kroupi,FWD,BOU,4.5,1.2,,,,,,,,,,,,,,1.0
 151,Jan Paul van Hecke,DEF,BHA,4.5,1.2,,,,,,,,,,,,,,1.0
-418,Jérémy Doku,MID,MCI,6.5,1.1,,,,,,,,,,,,,,1.0
-335,Josh King,MID,FUL,4.5,1.1,,,,,,,,,,,,,,1.0
-640,Pedro Cardoso de Lima,DEF,WOL,4.0,1.1,,,,,,,,,,,,,,1.0
-68,Will Dennis,GKP,BOU,4.0,1.1,,,,,,,,,,,,,,1.0
+72,Marcos Senesi Barón,DEF,BOU,4.5,1.2,,,,,,,,,,,,,,1.0
+93,Hamed Traorè,MID,BOU,4.5,1.2,,,,,,,,,,,,,,1.0
+32,Emiliano Martínez Romero,GKP,AVL,5.0,1.1,,,,,,,,,100.0,,,,,1.0
 160,Yankuba Minteh,MID,BHA,6.0,1.1,,,,,,,,,,,,,,1.0
-232,Tosin Adarabioyo,DEF,CHE,4.5,1.1,,,,,,,,,75.0,,,,,1.0
-72,Marcos Senesi Barón,DEF,BOU,4.5,1.1,,,,,,,,,,,,,,1.0
+640,Pedro Cardoso de Lima,DEF,WOL,4.0,1.1,,,,,,,,,,,,,,1.0
+335,Josh King,MID,FUL,4.5,1.1,,,,,,,,,,,,,,1.0
+418,Jérémy Doku,MID,MCI,6.5,1.1,,,,,,,,,,,,,,1.0
+68,Will Dennis,GKP,BOU,4.0,1.1,,,,,,,,,,,,,,1.0
 516,Callum Hudson-Odoi,MID,NFO,6.0,1.1,,,,,,,,,,,,,,1.0
-578,Luka Vušković,DEF,TOT,4.0,1.1,,,,,,,,,,,,,,1.0
-32,Emiliano Martínez Romero,GKP,AVL,5.0,1.0,,,,,,,,,100.0,,,,,1.0
-136,Igor Thiago Nascimento Rodrigues,FWD,BRE,6.0,1.0,,,,,,,,,,,,,,1.0
-93,Hamed Traorè,MID,BOU,4.5,1.0,,,,,,,,,,,,,,1.0
-105,Hákon Rafn Valdimarsson,GKP,BRE,4.0,1.0,,,,,,,,,,,,,,1.0
-18,Noni Madueke,MID,ARS,7.0,1.0,,,,,,,,,,,,,,1.0
+30,Kai Havertz,FWD,ARS,7.5,1.1,,,,,,,,,25.0,,,,,1.0
+232,Tosin Adarabioyo,DEF,CHE,4.5,1.1,,,,,,,,,100.0,,,,,1.0
 11,Benjamin White,DEF,ARS,5.5,1.0,,,,,,,,,,,,,,1.0
-329,Harry Wilson,MID,FUL,5.5,1.0,,,,,,,,,,,,,,1.0
-121,Mikkel Damsgaard,MID,BRE,6.0,0.9,,,,,,,,,,,,,,1.0
-285,Odsonne Édouard,FWD,CRY,5.0,0.9,,,,,,,,,,,,,,1.0
-33,Marco Bizot,GKP,AVL,4.5,0.9,,,,,,,,,,,,,,1.0
-674,Aaron Ramsdale,GKP,NEW,5.0,0.9,,,,,,,,,,,,,,1.0
-670,Robin Roefs,GKP,SUN,4.5,0.9,,,,,,,,,,,,,,1.0
-409,John Stones,DEF,MCI,5.5,0.9,,,,,,,,,,,,,,1.0
+18,Noni Madueke,MID,ARS,7.0,1.0,,,,,,,,,,,,,,1.0
+136,Igor Thiago Nascimento Rodrigues,FWD,BRE,6.0,1.0,,,,,,,,,,,,,,1.0
+578,Luka Vušković,DEF,TOT,4.0,1.0,,,,,,,,,,,,,,1.0
+670,Robin Roefs,GKP,SUN,4.5,1.0,,,,,,,,,,,,,,1.0
+105,Hákon Rafn Valdimarsson,GKP,BRE,4.0,1.0,,,,,,,,,,,,,,1.0
+74,Adrien Truffert,DEF,BOU,4.5,1.0,,,,,,,,,,,,,,1.0
 65,Zépiqueno Redmond,FWD,AVL,4.5,0.9,,,,,,,,,,,,,,1.0
+33,Marco Bizot,GKP,AVL,4.5,0.9,,,,,,,,,,,,,,1.0
 612,Lucas Tolentino Coelho de Lima,MID,WHU,5.9,0.9,,,,,,,,,,,,,,1.0
-74,Adrien Truffert,DEF,BOU,4.5,0.9,,,,,,,,,,,,,,1.0
 2,Kepa Arrizabalaga Revuelta,GKP,ARS,4.5,0.9,,,,,,,,,,,,,,1.0
-404,Manuel Akanji,DEF,MCI,5.5,0.8,,,,,,,,,,,,,,1.0
-39,Ian Maatsen,DEF,AVL,4.5,0.8,,,,,,,,,,,,,,1.0
-599,Dane Scarlett,FWD,TOT,4.5,0.8,,,,,,,,,,,,,,1.0
-678,Arthur Masuaku,DEF,SUN,4.0,0.8,,,,,,,,,100.0,,,,,1.0
-613,Tomáš Souček,MID,WHU,5.9,0.8,,,,,,,,,,,,,,1.0
-664,Benjamin Lecomte,GKP,FUL,4.0,0.8,,,,,,,,,,,,,,1.0
-416,Bernardo Mota Veiga de Carvalho e Silva,MID,MCI,6.5,0.8,,,,,,,,,,,,,,1.0
-77,James Hill,DEF,BOU,4.0,0.8,,,,,,,,,,,,,,1.0
-325,Emile Smith Rowe,MID,FUL,6.0,0.8,,,,,,,,,,,,,,1.0
+329,Harry Wilson,MID,FUL,5.5,0.9,,,,,,,,,,,,,,1.0
+409,John Stones,DEF,MCI,5.5,0.9,,,,,,,,,,,,,,1.0
+121,Mikkel Damsgaard,MID,BRE,5.9,0.9,,,,,,,,,,,,,,1.0
+285,Odsonne Édouard,FWD,CRY,5.0,0.9,,,,,,,,,,,,,,1.0
+669,Dan Ndoye,MID,NFO,6.0,0.8,,,,,,,,,,,,,,1.0
+674,Aaron Ramsdale,GKP,NEW,5.0,0.8,,,,,,,,,,,,,,1.0
 481,Alex Murphy,DEF,NEW,4.0,0.8,,,,,,,,,,,,,,1.0
+599,Dane Scarlett,FWD,TOT,4.5,0.8,,,,,,,,,,,,,,1.0
+664,Benjamin Lecomte,GKP,FUL,4.0,0.8,,,,,,,,,,,,,,1.0
+77,James Hill,DEF,BOU,4.0,0.8,,,,,,,,,,,,,,1.0
+678,Arthur Masuaku,DEF,SUN,4.0,0.8,,,,,,,,,100.0,,,,,1.0
+404,Manuel Akanji,DEF,MCI,5.5,0.8,,,,,,,,,,,,,,1.0
+416,Bernardo Mota Veiga de Carvalho e Silva,MID,MCI,6.5,0.8,,,,,,,,,,,,,,1.0
+325,Emile Smith Rowe,MID,FUL,5.9,0.8,,,,,,,,,,,,,,1.0
 292,Vitalii Mykolenko,DEF,EVE,5.0,0.8,,,,,,,,,75.0,,,,,1.0
 629,Daniel Bentley,GKP,WOL,4.0,0.8,,,,,,,,,,,,,,1.0
-526,Igor Jesus Maciel da Cruz,FWD,NFO,6.0,0.7,,,,,,,,,,,,,,1.0
-263,Nathaniel Clyne,DEF,CRY,4.0,0.7,,,,,,,,,,,,,,1.0
-669,Dan Ndoye,MID,NFO,6.0,0.7,,,,,,,,,,,,,,1.0
-310,Thierno Barry,FWD,EVE,6.0,0.7,,,,,,,,,,,,,,1.0
-458,Kobbie Mainoo,MID,MUN,5.0,0.7,,,,,,,,,,,,,,1.0
-316,Antonee Robinson,DEF,FUL,5.0,0.7,,,,,,,,,,,,,,1.0
+39,Ian Maatsen,DEF,AVL,4.5,0.8,,,,,,,,,,,,,,1.0
 63,Kadan Young,MID,AVL,4.5,0.7,,,,,,,,,,,,,,1.0
-54,John McGinn,MID,AVL,5.5,0.7,,,,,,,,,,,,,,1.0
-623,Freddie Potts,MID,WHU,4.5,0.7,,,,,,,,,,,,,,1.0
-626,Callum Marshall,FWD,WHU,4.5,0.7,,,,,,,,,,,,,,1.0
-415,Sávio Moreira de Oliveira,MID,MCI,7.0,0.7,,,,,,,,,,,,,,1.0
-442,Harry Maguire,DEF,MUN,4.5,0.7,,,,,,,,,,,,,,1.0
-339,Illan Meslier,GKP,LEE,4.5,0.7,,,,,,,,,,,,,,1.0
+263,Nathaniel Clyne,DEF,CRY,4.0,0.7,,,,,,,,,,,,,,1.0
 405,Nathan Aké,DEF,MCI,5.5,0.7,,,,,,,,,,,,,,1.0
+54,John McGinn,MID,AVL,5.5,0.7,,,,,,,,,,,,,,1.0
+442,Harry Maguire,DEF,MUN,4.5,0.7,,,,,,,,,,,,,,1.0
+458,Kobbie Mainoo,MID,MUN,5.0,0.7,,,,,,,,,,,,,,1.0
 527,Taiwo Awoniyi,FWD,NFO,5.5,0.7,,,,,,,,,,,,,,1.0
-81,Justin Kluivert,MID,BOU,7.0,0.6,,,,,,,,,,,,,,1.0
-421,Rodrigo 'Rodri' Hernandez Cascante,MID,MCI,6.5,0.6,,,,,,,,,100.0,,,,,1.0
+613,Tomáš Souček,MID,WHU,5.9,0.7,,,,,,,,,,,,,,1.0
+526,Igor Jesus Maciel da Cruz,FWD,NFO,6.0,0.7,,,,,,,,,,,,,,1.0
+626,Callum Marshall,FWD,WHU,4.5,0.7,,,,,,,,,,,,,,1.0
+310,Thierno Barry,FWD,EVE,6.0,0.7,,,,,,,,,,,,,,1.0
+316,Antonee Robinson,DEF,FUL,5.0,0.7,,,,,,,,,,,,,,1.0
+415,Sávio Moreira de Oliveira,MID,MCI,6.9,0.7,,,,,,,,,,,,,,1.0
+623,Freddie Potts,MID,WHU,4.5,0.7,,,,,,,,,,,,,,1.0
+339,Illan Meslier,GKP,LEE,4.5,0.7,,,,,,,,,,,,,,1.0
+465,Rasmus Højlund,FWD,MUN,6.4,0.6,,,,,,,,,,,,,,1.0
 601,Wes Foderingham,GKP,WHU,4.0,0.6,,,,,,,,,,,,,,1.0
-365,Lukas Nmecha,FWD,LEE,5.0,0.6,,,,,,,,,,,,,,1.0
-655,Fábio Soares Silva,FWD,WOL,5.0,0.6,,,,,,,,,,,,,,1.0
 663,Jhon Arias,MID,WOL,5.5,0.6,,,,,,,,,,,,,,1.0
-3,Karl Hein,GKP,ARS,4.0,0.6,,,,,,,,,,,,,,1.0
-574,Destiny Udogie,DEF,TOT,4.5,0.6,,,,,,,,,,,,,,1.0
-52,Jacob Ramsey,MID,NEW,5.5,0.6,,,,,,,,,,,,,,1.0
-273,Adam Wharton,MID,CRY,5.0,0.6,,,,,,,,,,,,,,1.0
-562,Ahmed Abdullahi,FWD,SUN,4.5,0.6,,,,,,,,,,,,,,1.0
-465,Rasmus Højlund,FWD,MUN,6.5,0.6,,,,,,,,,,,,,,1.0
-293,Jake O'Brien,DEF,EVE,5.0,0.6,,,,,,,,,,,,,,1.0
-13,Brayden Clarke,DEF,ARS,4.0,0.6,,,,,,,,,,,,,,1.0
+655,Fábio Soares Silva,FWD,WOL,5.0,0.6,,,,,,,,,,,,,,1.0
 22,Mikel Merino Zazón,MID,ARS,6.0,0.6,,,,,,,,,,,,,,1.0
+365,Lukas Nmecha,FWD,LEE,5.0,0.6,,,,,,,,,,,,,,1.0
+273,Adam Wharton,MID,CRY,5.0,0.6,,,,,,,,,,,,,,1.0
+293,Jake O'Brien,DEF,EVE,5.0,0.6,,,,,,,,,,,,,,1.0
+574,Destiny Udogie,DEF,TOT,4.5,0.6,,,,,,,,,,,,,,1.0
+13,Brayden Clarke,DEF,ARS,4.0,0.6,,,,,,,,,,,,,,1.0
+81,Justin Kluivert,MID,BOU,7.0,0.6,,,,,,,,,,,,,,1.0
+562,Ahmed Abdullahi,FWD,SUN,4.5,0.6,,,,,,,,,,,,,,1.0
+52,Jacob Ramsey,MID,NEW,5.5,0.6,,,,,,,,,,,,,,1.0
+3,Karl Hein,GKP,ARS,4.0,0.6,,,,,,,,,,,,,,1.0
+421,Rodrigo 'Rodri' Hernandez Cascante,MID,MCI,6.4,0.6,,,,,,,,,100.0,,,,,1.0
+353,Daniel James,MID,LEE,5.5,0.5,,,,,,,,,,,,,,1.0
 24,Christian Nørgaard,MID,ARS,5.5,0.5,,,,,,,,,75.0,,,,,1.0
-514,Willy Boly,DEF,NFO,4.0,0.5,,,,,,,,,,,,,,1.0
-475,Sven Botman,DEF,NEW,5.0,0.5,,,,,,,,,,,,,,1.0
+318,Calvin Bassey,DEF,FUL,4.5,0.5,,,,,,,,,,,,,,1.0
+116,Aaron Hickey,DEF,BRE,4.0,0.5,,,,,,,,,,,,,,1.0
+41,Pau Torres,DEF,AVL,4.5,0.5,,,,,,,,,,,,,,1.0
+671,Callum Wilson,FWD,WHU,6.0,0.5,,,,,,,,,,,,,,1.0
 138,Jason Steele,GKP,BHA,4.5,0.5,,,,,,,,,,,,,,1.0
-490,Joelinton Cássio Apolinário de Lira,MID,NEW,6.0,0.5,,,,,,,,,,,,,,1.0
-487,Harvey Barnes,MID,NEW,6.5,0.5,,,,,,,,,,,,,,1.0
-529,Simon Moore,GKP,SUN,4.0,0.5,,,,,,,,,,,,,,1.0
-484,Matt Targett,DEF,NEW,4.0,0.5,,,,,,,,,,,,,,1.0
-534,Joe Anderson,DEF,SUN,4.0,0.5,,,,,,,,,,,,,,1.0
+514,Willy Boly,DEF,NFO,4.0,0.5,,,,,,,,,,,,,,1.0
 192,Quilindschy Hartman,DEF,BUR,4.0,0.5,,,,,,,,,,,,,,1.0
-84,Marcus Tavernier,MID,BOU,5.5,0.5,,,,,,,,,,,,,,1.0
+137,Iwan Morgan,FWD,BRE,4.5,0.5,,,,,,,,,,,,,,1.0
+475,Sven Botman,DEF,NEW,5.0,0.5,,,,,,,,,,,,,,1.0
