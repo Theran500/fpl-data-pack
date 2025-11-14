@@ -1,34 +1,34 @@
 player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90_last6,shots_box_last4,big_chances_last4,key_passes_last4,mins_last4,expected_minutes_gw+1,proj_points_gw+1,proj_points_next3,injury_status,notes,legend_weight
 430,Erling Haaland,FWD,MCI,14.9,70.7,,,,,,,,,100.0,,,,,1.0
-82,Antoine Semenyo,MID,BOU,8.1,64.2,,,,,,,,,,,,,,1.0
+82,Antoine Semenyo,MID,BOU,8.1,64.1,,,,,,,,,,,,,,1.0
 249,João Pedro Junqueira de Jesus,FWD,CHE,7.5,48.4,,,,,,,,,,,,,,1.0
-5,Gabriel dos Santos Magalhães,DEF,ARS,6.6,43.7,,,,,,,,,100.0,,,,,1.0
-260,Marc Guéhi,DEF,CRY,5.1,34.9,,,,,,,,,75.0,,,,,1.0
+5,Gabriel dos Santos Magalhães,DEF,ARS,6.6,43.8,,,,,,,,,100.0,,,,,1.0
+260,Marc Guéhi,DEF,CRY,5.1,34.8,,,,,,,,,75.0,,,,,1.0
 470,Martin Dúbravka,GKP,BUR,4.0,34.3,,,,,,,,,100.0,,,,,1.0
-575,Micky van de Ven,DEF,TOT,4.8,33.4,,,,,,,,,,,,,,1.0
-119,Bryan Mbeumo,MID,MUN,8.5,32.3,,,,,,,,,,,,,,1.0
+575,Micky van de Ven,DEF,TOT,4.8,33.3,,,,,,,,,,,,,,1.0
+119,Bryan Mbeumo,MID,MUN,8.5,32.4,,,,,,,,,,,,,,1.0
 1,David Raya Martín,GKP,ARS,5.9,32.3,,,,,,,,,,,,,,1.0
 283,Jean-Philippe Mateta,FWD,CRY,8.1,29.0,,,,,,,,,,,,,,1.0
 72,Marcos Senesi Barón,DEF,BOU,5.0,25.9,,,,,,,,,,,,,,1.0
 8,Jurriën Timber,DEF,ARS,6.1,25.6,,,,,,,,,,,,,,1.0
 381,Mohamed Salah,MID,LIV,14.2,23.9,,,,,,,,,,,,,,1.0
-241,Moisés Caicedo Corozo,MID,CHE,6.1,23.2,,,,,,,,,100.0,,,,,1.0
+241,Moisés Caicedo Corozo,MID,CHE,6.1,23.3,,,,,,,,,100.0,,,,,1.0
 373,Virgil van Dijk,DEF,LIV,5.9,23.0,,,,,,,,,,,,,,1.0
 224,Marc Cucurella Saseta,DEF,CHE,6.1,22.1,,,,,,,,,,,,,,1.0
-582,Mohammed Kudus,MID,TOT,6.5,21.8,,,,,,,,,50.0,,,,,1.0
+582,Mohammed Kudus,MID,TOT,6.5,21.7,,,,,,,,,50.0,,,,,1.0
 714,Nick Woltemade,FWD,NEW,7.4,21.6,,,,,,,,,,,,,,1.0
 21,Declan Rice,MID,ARS,6.9,20.5,,,,,,,,,100.0,,,,,1.0
-427,Tijjani Reijnders,MID,MCI,5.5,19.6,,,,,,,,,,,,,,1.0
+427,Tijjani Reijnders,MID,MCI,5.5,19.5,,,,,,,,,,,,,,1.0
 16,Bukayo Saka,MID,ARS,10.1,17.4,,,,,,,,,100.0,,,,,1.0
 568,Pedro Porro Sauceda,DEF,TOT,5.5,17.3,,,,,,,,,,,,,,1.0
 449,Bruno Borges Fernandes,MID,MUN,8.9,16.3,,,,,,,,,,,,,,1.0
-419,Jack Grealish,MID,EVE,6.8,16.3,,,,,,,,,100.0,,,,,1.0
+419,Jack Grealish,MID,EVE,6.8,16.2,,,,,,,,,100.0,,,,,1.0
+256,Daniel Muñoz Mejía,DEF,CRY,5.7,16.1,,,,,,,,,,,,,,1.0
 7,Riccardo Calafiori,DEF,ARS,5.8,16.0,,,,,,,,,,,,,,1.0
-256,Daniel Muñoz Mejía,DEF,CRY,5.7,16.0,,,,,,,,,,,,,,1.0
 661,Hugo Ekitiké,FWD,LIV,8.6,15.4,,,,,,,,,100.0,,,,,1.0
 237,Enzo Fernández,MID,CHE,6.7,14.2,,,,,,,,,75.0,,,,,1.0
-666,Viktor Gyökeres,FWD,ARS,8.9,13.7,,,,,,,,,25.0,,,,,1.0
 220,Robert Lynch Sánchez,GKP,CHE,4.8,13.7,,,,,,,,,,,,,,1.0
+666,Viktor Gyökeres,FWD,ARS,8.9,13.6,,,,,,,,,25.0,,,,,1.0
 266,Eberechi Eze,MID,ARS,7.6,13.5,,,,,,,,,,,,,,1.0
 384,Cody Gakpo,MID,LIV,7.5,13.0,,,,,,,,,,,,,,1.0
 267,Ismaïla Sarr,MID,CRY,6.7,13.0,,,,,,,,,100.0,,,,,1.0
@@ -36,11 +36,11 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 299,Iliman Ndiaye,MID,EVE,6.6,11.9,,,,,,,,,100.0,,,,,1.0
 469,Nick Pope,GKP,NEW,5.2,11.7,,,,,,,,,,,,,,1.0
 6,William Saliba,DEF,ARS,6.0,11.6,,,,,,,,,100.0,,,,,1.0
-136,Igor Thiago Nascimento Rodrigues,FWD,BRE,6.3,10.5,,,,,,,,,,,,,,1.0
+136,Igor Thiago Nascimento Rodrigues,FWD,BRE,6.3,10.6,,,,,,,,,,,,,,1.0
 736,Gianluigi Donnarumma,GKP,MCI,5.7,10.1,,,,,,,,,,,,,,1.0
 565,Guglielmo Vicario,GKP,TOT,5.0,9.6,,,,,,,,,,,,,,1.0
 287,Jordan Pickford,GKP,EVE,5.5,9.6,,,,,,,,,,,,,,1.0
-476,Dan Burn,DEF,NEW,5.2,9.5,,,,,,,,,,,,,,1.0
+476,Dan Burn,DEF,NEW,5.2,9.4,,,,,,,,,,,,,,1.0
 178,Danny Welbeck,FWD,BHA,6.5,9.1,,,,,,,,,,,,,,1.0
 235,Cole Palmer,MID,CHE,10.3,9.0,,,,,,,,,,,,,,1.0
 225,Reece James,DEF,CHE,5.6,8.6,,,,,,,,,100.0,,,,,1.0
@@ -50,12 +50,12 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 253,Dean Henderson,GKP,CRY,5.0,7.7,,,,,,,,,,,,,,1.0
 101,Caoimhín Kelleher,GKP,BRE,4.5,7.7,,,,,,,,,100.0,,,,,1.0
 597,Richarlison de Andrade,FWD,TOT,6.4,7.7,,,,,,,,,,,,,,1.0
-624,Jarrod Bowen,FWD,WHU,7.7,7.5,,,,,,,,,,,,,,1.0
 670,Robin Roefs,GKP,SUN,4.7,7.4,,,,,,,,,,,,,,1.0
+624,Jarrod Bowen,FWD,WHU,7.7,7.4,,,,,,,,,,,,,,1.0
 382,Florian Wirtz,MID,LIV,8.0,7.1,,,,,,,,,,,,,,1.0
 252,Marc Guiu Paz,FWD,CHE,4.2,7.0,,,,,,,,,100.0,,,,,1.0
-64,Ollie Watkins,FWD,AVL,8.5,6.5,,,,,,,,,100.0,,,,,1.0
 348,Joe Rodon,DEF,LEE,4.1,6.4,,,,,,,,,100.0,,,,,1.0
+64,Ollie Watkins,FWD,AVL,8.5,6.4,,,,,,,,,100.0,,,,,1.0
 668,Granit Xhaka,MID,SUN,5.1,6.1,,,,,,,,,,,,,,1.0
 236,Pedro Lomba Neto,MID,CHE,7.1,6.0,,,,,,,,,75.0,,,,,1.0
 291,James Tarkowski,DEF,EVE,5.4,5.9,,,,,,,,,,,,,,1.0
@@ -66,7 +66,7 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 36,Matty Cash,DEF,AVL,4.6,5.6,,,,,,,,,,,,,,1.0
 366,Alisson Becker,GKP,LIV,5.4,5.5,,,,,,,,,,,,,,1.0
 200,Jaidon Anthony,MID,BUR,5.6,5.4,,,,,,,,,100.0,,,,,1.0
-418,Jérémy Doku,MID,MCI,6.4,5.3,,,,,,,,,,,,,,1.0
+418,Jérémy Doku,MID,MCI,6.4,5.4,,,,,,,,,,,,,,1.0
 403,Joško Gvardiol,DEF,MCI,5.8,5.1,,,,,,,,,100.0,,,,,1.0
 387,Dominik Szoboszlai,MID,LIV,6.6,5.1,,,,,,,,,,,,,,1.0
 370,Jeremie Frimpong,DEF,LIV,5.7,5.0,,,,,,,,,,,,,,1.0
@@ -129,11 +129,11 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 567,Antonín Kinský,GKP,TOT,3.9,1.9,,,,,,,,,,,,,,1.0
 485,Anthony Gordon,MID,NEW,7.4,1.9,,,,,,,,,50.0,,,,,1.0
 506,Murillo Costa dos Santos,DEF,NFO,5.3,1.9,,,,,,,,,100.0,,,,,1.0
-673,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,MID,TOT,5.5,1.8,,,,,,,,,,,,,,1.0
+411,Nico O'Reilly,DEF,MCI,5.0,1.9,,,,,,,,,100.0,,,,,1.0
 658,Nathan Fraser,FWD,WOL,4.4,1.8,,,,,,,,,,,,,,1.0
 145,Maxim De Cuyper,DEF,BHA,4.3,1.8,,,,,,,,,100.0,,,,,1.0
 198,Axel Tuanzebe,DEF,BUR,3.9,1.8,,,,,,,,,100.0,,,,,1.0
-411,Nico O'Reilly,DEF,MCI,4.9,1.8,,,,,,,,,100.0,,,,,1.0
+673,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,MID,TOT,5.5,1.8,,,,,,,,,,,,,,1.0
 474,Fabian Schär,DEF,NEW,5.4,1.8,,,,,,,,,100.0,,,,,1.0
 84,Marcus Tavernier,MID,BOU,5.5,1.7,,,,,,,,,,,,,,1.0
 444,Leny Yoro,DEF,MUN,4.4,1.7,,,,,,,,,,,,,,1.0
@@ -195,11 +195,11 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 19,Gabriel Martinelli Silva,MID,ARS,6.8,0.8,,,,,,,,,25.0,,,,,1.0
 303,James Garner,MID,EVE,5.0,0.8,,,,,,,,,,,,,,1.0
 407,Matheus Nunes,DEF,MCI,5.3,0.8,,,,,,,,,,,,,,1.0
-442,Harry Maguire,DEF,MUN,4.4,0.8,,,,,,,,,75.0,,,,,1.0
+105,Hákon Rafn Valdimarsson,GKP,BRE,3.9,0.8,,,,,,,,,,,,,,1.0
 77,James Hill,DEF,BOU,4.0,0.8,,,,,,,,,,,,,,1.0
-105,Hákon Rafn Valdimarsson,GKP,BRE,3.9,0.7,,,,,,,,,,,,,,1.0
+442,Harry Maguire,DEF,MUN,4.4,0.8,,,,,,,,,75.0,,,,,1.0
 516,Callum Hudson-Odoi,MID,NFO,5.8,0.7,,,,,,,,,25.0,,,,,1.0
-328,Ryan Sessegnon,MID,FUL,5.4,0.7,,,,,,,,,100.0,,,,,1.0
+526,Igor Jesus Maciel da Cruz,FWD,NFO,5.8,0.7,,,,,,,,,,,,,,1.0
 678,Arthur Masuaku,DEF,SUN,3.9,0.7,,,,,,,,,100.0,,,,,1.0
 561,Eliezer Mayenda Dossou,FWD,SUN,5.4,0.7,,,,,,,,,,,,,,1.0
 626,Callum Marshall,FWD,WHU,4.4,0.7,,,,,,,,,,,,,,1.0
@@ -207,7 +207,7 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 623,Freddie Potts,MID,WHU,4.4,0.7,,,,,,,,,,,,,,1.0
 473,Lewis Hall,DEF,NEW,5.2,0.7,,,,,,,,,100.0,,,,,1.0
 599,Dane Scarlett,FWD,TOT,4.3,0.7,,,,,,,,,,,,,,1.0
-526,Igor Jesus Maciel da Cruz,FWD,NFO,5.8,0.7,,,,,,,,,,,,,,1.0
+328,Ryan Sessegnon,MID,FUL,5.4,0.7,,,,,,,,,100.0,,,,,1.0
 78,Julián Araujo Zúñiga,DEF,BOU,3.9,0.7,,,,,,,,,100.0,,,,,1.0
 409,John Stones,DEF,MCI,5.4,0.7,,,,,,,,,100.0,,,,,1.0
 59,Amadou Onana,MID,AVL,4.8,0.7,,,,,,,,,100.0,,,,,1.0
