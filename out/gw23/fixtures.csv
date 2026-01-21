@@ -87,12 +87,12 @@ gw,club,opp,home_away,fdr,fixture_congestion,blank,double
 27,BHA,BRE,A,3,1,N,N
 27,CHE,BUR,H,2,1,N,N
 27,BUR,CHE,A,3,1,N,N
-27,CRY,WOL,H,2,1,N,N
-27,WOL,CRY,A,3,1,N,N
 27,NFO,LIV,H,4,1,N,N
 27,LIV,NFO,A,3,1,N,N
 27,WHU,BOU,H,3,1,N,N
 27,BOU,WHU,A,2,1,N,N
+27,CRY,WOL,H,2,1,N,N
+27,WOL,CRY,A,3,1,N,N
 27,SUN,FUL,H,2,1,N,N
 27,FUL,SUN,A,3,1,N,N
 27,TOT,ARS,H,4,1,N,N
