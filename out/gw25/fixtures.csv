@@ -39,6 +39,8 @@ gw,club,opp,home_away,fdr,fixture_congestion,blank,double
 26,LIV,SUN,A,3,1,N,N
 26,BRE,ARS,H,4,1,N,N
 26,ARS,BRE,A,3,1,N,N
+26,WOL,ARS,H,4,1,N,N
+26,ARS,WOL,A,2,1,N,N
 27,AVL,LEE,H,2,1,N,N
 27,LEE,AVL,A,3,1,N,N
 27,BRE,BHA,H,3,1,N,N
