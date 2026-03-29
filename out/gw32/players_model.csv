@@ -22,7 +22,7 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 224,Marc Cucurella Saseta,DEF,CHE,6.0,14.2,,,,,,,,,100.0,,,,,1.0
 381,Mohamed Salah,MID,LIV,14.0,14.1,,,,,,,,,50.0,,,,,1.0
 387,Dominik Szoboszlai,MID,LIV,7.0,14.0,,,,,,,,,100.0,,,,,1.0
-226,Trevoh Chalobah,DEF,CHE,5.5,13.9,,,,,,,,,,,,,,1.0
+226,Trevoh Chalobah,DEF,CHE,5.4,13.8,,,,,,,,,,,,,,1.0
 101,Caoimhín Kelleher,GKP,BRE,4.8,13.5,,,,,,,,,100.0,,,,,1.0
 287,Jordan Pickford,GKP,EVE,5.6,13.5,,,,,,,,,,,,,,1.0
 6,William Saliba,DEF,ARS,6.1,13.2,,,,,,,,,75.0,,,,,1.0
@@ -52,7 +52,7 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 77,James Hill,DEF,BOU,4.2,7.6,,,,,,,,,,,,,,1.0
 241,Moisés Caicedo Corozo,MID,CHE,5.7,7.5,,,,,,,,,100.0,,,,,1.0
 225,Reece James,DEF,CHE,5.6,7.4,,,,,,,,,50.0,,,,,1.0
-485,Anthony Gordon,MID,NEW,7.4,7.3,,,,,,,,,100.0,,,,,1.0
+485,Anthony Gordon,MID,NEW,7.4,7.4,,,,,,,,,100.0,,,,,1.0
 256,Daniel Muñoz Mejía,DEF,CRY,5.8,7.2,,,,,,,,,100.0,,,,,1.0
 694,Nordi Mukiele,DEF,SUN,4.5,7.1,,,,,,,,,100.0,,,,,1.0
 417,Rayan Cherki,MID,MCI,6.3,6.9,,,,,,,,,100.0,,,,,1.0
@@ -65,7 +65,7 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 100,Junior Kroupi,FWD,BOU,4.7,6.1,,,,,,,,,75.0,,,,,1.0
 7,Riccardo Calafiori,DEF,ARS,5.6,6.0,,,,,,,,,100.0,,,,,1.0
 384,Cody Gakpo,MID,LIV,7.3,5.9,,,,,,,,,100.0,,,,,1.0
-419,Jack Grealish,MID,EVE,6.3,5.8,,,,,,,,,,,,,,1.0
+419,Jack Grealish,MID,EVE,6.3,5.7,,,,,,,,,,,,,,1.0
 597,Richarlison de Andrade,FWD,TOT,6.3,5.7,,,,,,,,,100.0,,,,,1.0
 139,Bart Verbruggen,GKP,BHA,4.5,5.6,,,,,,,,,,,,,,1.0
 252,Marc Guiu Paz,FWD,CHE,4.1,5.4,,,,,,,,,100.0,,,,,1.0
@@ -89,7 +89,7 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 374,Ibrahima Konaté,DEF,LIV,5.5,4.4,,,,,,,,,100.0,,,,,1.0
 473,Lewis Hall,DEF,NEW,5.4,4.3,,,,,,,,,100.0,,,,,1.0
 303,James Garner,MID,EVE,5.2,4.3,,,,,,,,,,,,,,1.0
-299,Iliman Ndiaye,MID,EVE,6.2,4.3,,,,,,,,,100.0,,,,,1.0
+299,Iliman Ndiaye,MID,EVE,6.2,4.3,,,,,,,,,75.0,,,,,1.0
 348,Joe Rodon,DEF,LEE,3.9,4.2,,,,,,,,,100.0,,,,,1.0
 236,Pedro Lomba Neto,MID,CHE,7.0,4.1,,,,,,,,,100.0,,,,,1.0
 83,Dango Ouattara,MID,BRE,6.0,3.9,,,,,,,,,100.0,,,,,1.0
