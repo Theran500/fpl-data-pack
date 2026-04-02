@@ -3,7 +3,7 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 82,Antoine Semenyo,MID,MCI,8.2,53.6,,,,,,,,,100.0,,,,,1.0
 249,João Pedro Junqueira de Jesus,FWD,CHE,7.8,50.4,,,,,,,,,,,,,,1.0
 449,Bruno Borges Fernandes,MID,MUN,10.3,44.5,,,,,,,,,100.0,,,,,1.0
-5,Gabriel dos Santos Magalhães,DEF,ARS,7.2,43.1,,,,,,,,,75.0,,,,,1.0
+5,Gabriel dos Santos Magalhães,DEF,ARS,7.2,43.0,,,,,,,,,75.0,,,,,1.0
 136,Igor Thiago Nascimento Rodrigues,FWD,BRE,7.3,36.8,,,,,,,,,100.0,,,,,1.0
 661,Hugo Ekitiké,FWD,LIV,9.3,35.5,,,,,,,,,100.0,,,,,1.0
 373,Virgil van Dijk,DEF,LIV,6.3,35.0,,,,,,,,,,,,,,1.0
@@ -88,7 +88,7 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 402,Rayan Aït-Nouri,DEF,MCI,5.7,4.4,,,,,,,,,100.0,,,,,1.0
 374,Ibrahima Konaté,DEF,LIV,5.5,4.4,,,,,,,,,100.0,,,,,1.0
 473,Lewis Hall,DEF,NEW,5.4,4.3,,,,,,,,,100.0,,,,,1.0
-303,James Garner,MID,EVE,5.2,4.3,,,,,,,,,,,,,,1.0
+303,James Garner,MID,EVE,5.3,4.3,,,,,,,,,,,,,,1.0
 299,Iliman Ndiaye,MID,EVE,6.2,4.3,,,,,,,,,75.0,,,,,1.0
 348,Joe Rodon,DEF,LEE,3.9,4.2,,,,,,,,,100.0,,,,,1.0
 236,Pedro Lomba Neto,MID,CHE,7.0,4.1,,,,,,,,,100.0,,,,,1.0
@@ -114,7 +114,7 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 106,Nathan Collins,DEF,BRE,4.9,2.9,,,,,,,,,,,,,,1.0
 441,Patrick Dorgu,DEF,MUN,4.1,2.8,,,,,,,,,,,,,,1.0
 660,Anton Stach,MID,LEE,4.8,2.8,,,,,,,,,100.0,,,,,1.0
-733,Senne Lammens,GKP,MUN,5.0,2.8,,,,,,,,,,,,,,1.0
+733,Senne Lammens,GKP,MUN,5.1,2.8,,,,,,,,,,,,,,1.0
 541,Reinildo Mandava,DEF,SUN,3.8,2.8,,,,,,,,,100.0,,,,,1.0
 486,Anthony Elanga,MID,NEW,6.5,2.7,,,,,,,,,100.0,,,,,1.0
 341,Karl Darlow,GKP,LEE,3.9,2.6,,,,,,,,,,,,,,1.0
@@ -136,12 +136,12 @@ player_id,name,pos,club,now_price,owned_by_%,xG_last4,xA_last4,xGI_last4,npXGI90
 120,Kevin Schade,MID,BRE,7.0,2.0,,,,,,,,,100.0,,,,,1.0
 314,Bernd Leno,GKP,FUL,4.9,2.0,,,,,,,,,,,,,,1.0
 600,Alphonse Areola,GKP,WHU,4.3,2.0,,,,,,,,,,,,,,1.0
-200,Jaidon Anthony,MID,BUR,5.0,2.0,,,,,,,,,100.0,,,,,1.0
-160,Yankuba Minteh,MID,BHA,5.5,1.9,,,,,,,,,100.0,,,,,1.0
 497,Lewis Miley,MID,NEW,4.4,1.9,,,,,,,,,50.0,,,,,1.0
+228,Malo Gusto,DEF,CHE,4.9,1.9,,,,,,,,,100.0,,,,,1.0
+160,Yankuba Minteh,MID,BHA,5.5,1.9,,,,,,,,,100.0,,,,,1.0
 477,Tino Livramento,DEF,NEW,4.9,1.9,,,,,,,,,100.0,,,,,1.0
 654,Jørgen Strand Larsen,FWD,CRY,6.1,1.9,,,,,,,,,100.0,,,,,1.0
-228,Malo Gusto,DEF,CHE,4.9,1.9,,,,,,,,,100.0,,,,,1.0
+200,Jaidon Anthony,MID,BUR,5.0,1.9,,,,,,,,,100.0,,,,,1.0
 157,Mitoma Kaoru,MID,BHA,6.1,1.8,,,,,,,,,100.0,,,,,1.0
 436,Matthijs de Ligt,DEF,MUN,4.9,1.8,,,,,,,,,,,,,,1.0
 658,Nathan Fraser,FWD,WOL,4.2,1.8,,,,,,,,,,,,,,1.0
