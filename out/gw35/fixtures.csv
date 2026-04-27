@@ -43,12 +43,8 @@ gw,club,opp,home_away,fdr,fixture_congestion,blank,double
 37,BUR,ARS,A,5,1,N,N
 37,AVL,LIV,H,3,1,N,N
 37,LIV,AVL,A,4,1,N,N
-37,BOU,MCI,H,4,1,N,N
-37,MCI,BOU,A,3,1,N,N
 37,BRE,CRY,H,3,1,N,N
 37,CRY,BRE,A,3,1,N,N
-37,CHE,TOT,H,2,1,N,N
-37,TOT,CHE,A,3,1,N,N
 37,EVE,SUN,H,2,1,N,N
 37,SUN,EVE,A,3,1,N,N
 37,LEE,BHA,H,3,1,N,N
