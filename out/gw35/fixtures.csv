@@ -10,12 +10,12 @@ gw,club,opp,home_away,fdr,fixture_congestion,blank,double
 35,ARS,FUL,H,3,1,N,N
 35,FUL,ARS,A,5,1,N,N
 35,BOU,CRY,H,3,1,N,N
-35,CRY,BOU,A,3,1,N,N
+35,CRY,BOU,A,4,1,N,N
 35,MUN,LIV,H,3,1,N,N
 35,LIV,MUN,A,4,1,N,N
-35,AVL,TOT,H,2,1,N,N
+35,AVL,TOT,H,3,1,N,N
 35,TOT,AVL,A,4,1,N,N
-35,CHE,NFO,H,2,1,N,N
+35,CHE,NFO,H,3,1,N,N
 35,NFO,CHE,A,3,1,N,N
 35,EVE,MCI,H,4,1,N,N
 35,MCI,EVE,A,3,1,N,N
@@ -36,9 +36,9 @@ gw,club,opp,home_away,fdr,fixture_congestion,blank,double
 36,NFO,NEW,H,3,1,N,N
 36,NEW,NFO,A,3,1,N,N
 36,WHU,ARS,H,4,1,N,N
-36,ARS,WHU,A,2,1,N,N
+36,ARS,WHU,A,3,1,N,N
 36,TOT,LEE,H,2,1,N,N
-36,LEE,TOT,A,2,1,N,N
+36,LEE,TOT,A,3,1,N,N
 37,ARS,BUR,H,1,1,N,N
 37,BUR,ARS,A,5,1,N,N
 37,AVL,LIV,H,3,1,N,N
@@ -49,7 +49,7 @@ gw,club,opp,home_away,fdr,fixture_congestion,blank,double
 37,SUN,EVE,A,3,1,N,N
 37,LEE,BHA,H,3,1,N,N
 37,BHA,LEE,A,3,1,N,N
-37,MUN,NFO,H,2,1,N,N
+37,MUN,NFO,H,3,1,N,N
 37,NFO,MUN,A,4,1,N,N
 37,NEW,WHU,H,2,1,N,N
 37,WHU,NEW,A,3,1,N,N
@@ -70,8 +70,8 @@ gw,club,opp,home_away,fdr,fixture_congestion,blank,double
 38,NFO,BOU,H,3,1,N,N
 38,BOU,NFO,A,3,1,N,N
 38,TOT,EVE,H,3,1,N,N
-38,EVE,TOT,A,2,1,N,N
+38,EVE,TOT,A,3,1,N,N
 38,SUN,CHE,H,3,1,N,N
 38,CHE,SUN,A,3,1,N,N
 38,WHU,LEE,H,2,1,N,N
-38,LEE,WHU,A,2,1,N,N
+38,LEE,WHU,A,3,1,N,N
