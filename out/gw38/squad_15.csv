@@ -1,1 +1,16 @@
 player_id,name,pos,club,buy_price,sell_price,now_price,owned_from_gw,is_flagged,chance_of_playing,minutes_last4,points_last4
+220,Robert Lynch Sánchez,GKP,CHE,,,4.8,,False,100,246,5
+5,Gabriel dos Santos Magalhães,DEF,ARS,,,7.3,,False,100,315,24
+541,Reinildo Mandava,DEF,SUN,,,3.8,,False,100,341,14
+256,Daniel Muñoz Mejía,DEF,CRY,,,5.9,,False,100,306,10
+517,Elliot Anderson,MID,NFO,,,5.7,,False,100,289,27
+235,Cole Palmer,MID,CHE,,,10.3,,False,100,358,12
+381,Mohamed Salah,MID,LIV,,,14.0,,False,100,89,7
+427,Tijjani Reijnders,MID,MCI,,,5.0,,False,100,135,6
+624,Jarrod Bowen,FWD,WHU,,,7.8,,False,100,357,18
+249,João Pedro Junqueira de Jesus,FWD,CHE,,,7.4,,False,100,270,11
+597,Richarlison de Andrade,FWD,TOT,,,6.5,,False,100,342,20
+470,Martin Dúbravka,GKP,BUR,,,4.0,,False,100,90,2
+506,Murillo Costa dos Santos,DEF,NFO,,,5.2,,True,0,0,0
+121,Mikkel Damsgaard,MID,BRE,,,5.6,,False,100,255,18
+291,James Tarkowski,DEF,EVE,,,5.8,,False,100,360,21
