@@ -11,6 +11,6 @@ player_id,name,pos,club,buy_price,sell_price,now_price,owned_from_gw,is_flagged,
 249,João Pedro Junqueira de Jesus,FWD,CHE,,,7.4,,False,100,270,11
 597,Richarlison de Andrade,FWD,TOT,,,6.5,,False,100,342,20
 470,Martin Dúbravka,GKP,BUR,,,4.0,,False,100,90,2
-506,Murillo Costa dos Santos,DEF,NFO,,,5.2,,True,0,0,0
+506,Murillo Costa dos Santos,DEF,NFO,,,5.2,,False,100,0,0
 121,Mikkel Damsgaard,MID,BRE,,,5.6,,False,100,255,18
 291,James Tarkowski,DEF,EVE,,,5.8,,False,100,360,21
