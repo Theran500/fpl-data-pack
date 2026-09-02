@@ -47,14 +47,14 @@ gw,club,opp,home_away,fdr,fixture_congestion,blank,double
 5,ARS,BHA,A,3,1,N,N
 5,EVE,IPS,H,2,1,N,N
 5,IPS,EVE,A,3,1,N,N
-5,LEE,CRY,H,3,1,N,N
-5,CRY,LEE,A,3,1,N,N
 5,NEW,HUL,H,2,1,N,N
 5,HUL,NEW,A,3,1,N,N
 5,NFO,COV,H,2,1,N,N
 5,COV,NFO,A,3,1,N,N
 5,BOU,LIV,H,4,1,N,N
 5,LIV,BOU,A,3,1,N,N
+5,LEE,CRY,H,3,1,N,N
+5,CRY,LEE,A,3,1,N,N
 5,MCI,SUN,H,2,1,N,N
 5,SUN,MCI,A,5,1,N,N
 5,FUL,MUN,H,4,1,N,N
